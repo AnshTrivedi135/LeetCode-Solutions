@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
