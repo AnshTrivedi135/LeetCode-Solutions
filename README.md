@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
