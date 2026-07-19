@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Sliding Window
 |  |
 | ------- |
