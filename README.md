@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Stack
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Geometry
 |  |
