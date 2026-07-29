@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
+| [1768-merge-strings-alternately](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
