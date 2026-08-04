@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
