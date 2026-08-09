@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
@@ -110,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 ## Linked List
@@ -245,8 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
