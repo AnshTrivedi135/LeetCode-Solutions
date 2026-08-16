@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
