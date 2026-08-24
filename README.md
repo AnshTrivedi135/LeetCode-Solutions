@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
