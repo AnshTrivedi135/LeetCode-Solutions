@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1768-merge-strings-alternately](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
