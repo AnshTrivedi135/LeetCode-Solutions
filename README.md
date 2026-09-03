@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
 |  |
 | ------- |
