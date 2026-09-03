@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
