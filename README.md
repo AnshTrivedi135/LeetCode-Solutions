@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [3497-analyze-subscription-conversion](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
