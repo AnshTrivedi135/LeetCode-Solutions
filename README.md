@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Backtracking
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Matrix
 |  |
 | ------- |
