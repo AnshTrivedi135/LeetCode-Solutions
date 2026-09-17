@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
