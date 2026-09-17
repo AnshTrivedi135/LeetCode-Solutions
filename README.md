@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3870-count-commas-in-range](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
