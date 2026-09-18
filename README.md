@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1669-merge-in-between-linked-lists](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
