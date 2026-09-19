@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
@@ -514,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
