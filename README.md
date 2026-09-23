@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0835-image-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
