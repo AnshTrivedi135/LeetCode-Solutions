@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 | [3870-count-commas-in-range](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
@@ -551,4 +553,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 <!---LeetCode Topics End-->
