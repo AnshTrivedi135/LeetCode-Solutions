@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
 | ------- |
