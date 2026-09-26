@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1768-merge-strings-alternately](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
