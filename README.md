@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
