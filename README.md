@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2211-count-collisions-on-a-road](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2211-count-collisions-on-a-road](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
