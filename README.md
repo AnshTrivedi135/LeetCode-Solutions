@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3366-minimum-array-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
