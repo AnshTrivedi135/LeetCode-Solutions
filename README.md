@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Math
 |  |
 | ------- |
