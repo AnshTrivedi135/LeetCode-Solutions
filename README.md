@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Linked List
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
@@ -636,4 +639,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
