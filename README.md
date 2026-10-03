@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 ## Greedy
 |  |
