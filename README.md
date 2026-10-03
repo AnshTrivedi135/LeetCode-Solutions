@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
