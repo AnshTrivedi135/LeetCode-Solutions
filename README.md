@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0856-score-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
