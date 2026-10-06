@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0585-investments-in-2016) |
 | [3497-analyze-subscription-conversion](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3497-analyze-subscription-conversion) |
 ## Binary Indexed Tree
