@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
