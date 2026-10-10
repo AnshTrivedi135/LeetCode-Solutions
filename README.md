@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Linked List
