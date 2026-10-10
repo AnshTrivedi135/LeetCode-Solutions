@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bipartite Graph
 |  |
 | ------- |
