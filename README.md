@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
