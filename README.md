@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3366-minimum-array-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3366-minimum-array-sum) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
