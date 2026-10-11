@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 ## Bit Manipulation
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
