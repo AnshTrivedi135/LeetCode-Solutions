@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 | [3870-count-commas-in-range](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Minimax
 |  |
 | ------- |
