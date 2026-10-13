@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
