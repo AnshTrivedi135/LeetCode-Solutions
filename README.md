@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
