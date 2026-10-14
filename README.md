@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3366-minimum-array-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3366-minimum-array-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
