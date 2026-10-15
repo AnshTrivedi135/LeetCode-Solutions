@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3366-minimum-array-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3366-minimum-array-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
@@ -738,10 +740,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Euclidean Algorithm
 |  |
