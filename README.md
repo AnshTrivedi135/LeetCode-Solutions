@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 | [0963-minimum-area-rectangle-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
+| [0994-rotting-oranges](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0994-rotting-oranges](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
