@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0835-image-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0704-binary-search](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
