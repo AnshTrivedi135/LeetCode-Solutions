@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0835-image-overlap](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0875-koko-eating-bananas](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
