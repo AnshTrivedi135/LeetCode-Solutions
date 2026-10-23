@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3698-split-array-with-minimum-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
