@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0575-distribute-candies](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -616,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
