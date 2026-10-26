@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0394-decode-string) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
