@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0658-find-k-closest-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0957-prison-cells-after-n-days](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0957-prison-cells-after-n-days) |
 ## Graph Theory
 |  |
