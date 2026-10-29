@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0678-valid-parenthesis-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0220-contains-duplicate-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
