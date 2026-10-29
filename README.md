@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3698-split-array-with-minimum-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3669-balanced-k-factor-decomposition) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3870-count-commas-in-range](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
