@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0785-is-graph-bipartite](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1367-linked-list-in-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
