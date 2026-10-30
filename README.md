@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2549-count-distinct-numbers-on-board](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1499-max-value-of-equation) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3694-distinct-points-reachable-after-substring-removal) |
 ## Prefix Sum
