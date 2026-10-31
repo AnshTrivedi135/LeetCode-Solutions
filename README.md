@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3665-twisted-mirror-path-count](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
+| [3665-twisted-mirror-path-count](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3698-split-array-with-minimum-difference](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3698-split-array-with-minimum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2536-increment-submatrices-by-one](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3665-twisted-mirror-path-count](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Breadth-First Search
 |  |
 | ------- |
