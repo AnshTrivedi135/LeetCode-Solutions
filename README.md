@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
