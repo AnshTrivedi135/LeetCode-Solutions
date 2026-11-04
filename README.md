@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2456-most-popular-video-creator](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2456-most-popular-video-creator) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2365-task-scheduler-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2399-check-distances-between-same-letters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
