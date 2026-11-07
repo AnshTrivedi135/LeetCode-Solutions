@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1407-top-travellers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
