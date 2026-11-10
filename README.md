@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1488-avoid-flood-in-the-city](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1982-find-array-given-subset-sums](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/1982-find-array-given-subset-sums) |
