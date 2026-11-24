@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
