@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3654-minimum-sum-after-divisible-sum-deletions](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3654-minimum-sum-after-divisible-sum-deletions) |
 | [3665-twisted-mirror-path-count](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Recursion
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/AnshTrivedi135/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
